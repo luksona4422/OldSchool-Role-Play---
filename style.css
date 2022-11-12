@@ -1,0 +1,260 @@
+body {
+    background-color: rgba(224, 215, 215, 0.527);
+    border: 10px;
+    
+}
+
+
+
+.axali {
+    width: 1560px;
+    height: 80px;
+    box-sizing: border-box;
+    background-color: rgb(12, 14, 24);
+    box-shadow: 0px 0px 17px 0px rgb(17, 16, 12);
+    transform:translateY(-22px)
+    
+    
+}
+
+.axali {
+    border-radius: 12px;
+    border-style: ridge;
+    border-color: rgba(180, 177, 177, 0.61);
+}
+
+.logo{
+    width: 150px;
+    height: 20px;
+    background-color: rgba(39, 176, 230, 0.349);
+    border-radius: 20px;
+    border-style: groove;
+    border-color: rgb(255, 255, 255);
+    box-shadow: 20px;
+    
+    transform: translateY(1px)
+    
+    
+    
+    
+}
+
+.logo:hover {
+    background-color: rgba(48, 212, 198, 0.521);
+    
+}
+
+.logo1{
+   
+    width: 150px;
+    height: 20px;
+    background-color: rgba(39, 176, 230, 0.418);
+    border-radius: 20px;
+    border-style: groove;
+    border-color: white;
+    box-shadow: 20px;
+    
+    font-size: 15px;
+    transform: translateY(-24px)
+
+    
+    
+   }
+   .logo1:hover{
+    background-color: rgba(48, 212, 198, 0.548);
+    
+    }
+
+    .logo2{
+        width: 150px;
+        font-style:initial;
+        height: 20px;
+        background-color: rgba(39, 176, 230, 0.418);
+        border-radius: 20px;
+        border-style: groove;
+        border-color: white;
+        box-shadow: 20px;
+        font-size: 20px;
+        transform: translateY(-48px)
+         
+    }
+
+    .logo2:hover{
+        background-color: rgba(48, 212, 198, 0.548);
+        
+       
+    }
+
+    .satauri {
+        
+        transform:translateY(-40px)
+        
+        
+    
+    }
+    .satauri {
+        font-size: 45px;
+        
+        
+        
+        
+    }
+
+    .text2{
+        margin-left: auto;
+        transform:translateY(-20px)
+        
+    }
+    .image2{
+        width: 500px;
+        
+        height: 500px;
+        
+        box-shadow: 40px;
+        box-sizing: border-box;
+        border-color: rgba(37, 36, 36, 0.61);
+        border-radius: calc(20px);
+        
+        box-shadow: 0px 0px 17px 0px rgb(12, 10, 3);
+        background-color: rgba(170, 168, 168, 0.295);
+        
+        
+        
+    }
+
+    .wesebi {
+        font-size: 14px;
+        color: gray;
+        transform: translateY(-500px);
+    }
+
+    .kubi{
+        width: 800px;
+        height: 700px;
+        background-color: rgba(219, 133, 21, 0.747);
+        border-style: groove;
+        border-color: rgb(56, 55, 55);
+        border-radius: 15px;
+    }
+
+    #kubi1{
+        width: 60px;
+        height: 60px;
+        border-radius: 10px;
+        border-style: dotted;
+        background-color: rgba(184, 16, 16, 0.808);
+        transform: translateY(100px);
+        
+        
+    }
+
+    #score {
+        transform: translateY(-725px);
+    }
+#time {
+    transform: translateY(-750px);
+    font-size: 30px;
+}
+
+.start{
+    width: 200px;
+    font-style:initial;
+    height: 40px;
+    background-color: rgba(39, 42, 43, 0.699);
+    border-radius: 20px;
+    border-style: groove;
+    border-color: rgb(134, 133, 133);
+    box-shadow: 20px;
+    font-size: 20px;
+    transform:translatey(-200px)
+
+}
+
+.start1{
+    width: 200px;
+    font-style:initial;
+    height: 40px;
+    background-color: rgba(39, 42, 43, 0.699);
+    border-radius: 20px;
+    border-style: groove;
+    border-color: rgb(134, 133, 133);
+    box-shadow: 20px;
+    font-size: 20px;
+    transform:translatey(-130px)
+}
+
+.agwera {
+    width: 350px;
+    height: 100px;
+    border-radius: 17px;
+    font-family: 'Courier New', Courier, monospace;
+   
+    background-color: rgba(49, 49, 49, 0.603);
+    transform:translateY(200px)
+    
+}
+
+.kaci {
+    box-shadow: 0px 0px 17px 0px black;
+    transform: translateY(-700px);
+    border-radius: 20px;
+}
+.start2{
+    
+    cursor: pointer;
+    transition: 0.5s;
+    
+}
+.start2:hover {
+    transform: scale(1.1);
+}
+
+.kaci2 {
+    box-shadow: 0px 0px 17px 0px black;
+    border-radius: 20px;
+}
+
+.kaci5{
+    box-shadow: 0px 0px 17px 0px black;
+    border-radius: 20px;
+}
+
+#play{
+    transform: translateY(-500px);
+    
+}
+.gadmowere{
+    cursor: pointer;
+    transition: 0.5s;
+    border-radius: 20px;
+}
+.gadmowere:hover{
+    transform: scale(1.1);
+}
+#agwera {
+    transform: translateY(-70px);
+    width: 500px;      
+    height: 180px;  
+    background-color: rgba(185, 182, 182, 0.288);
+    box-shadow: 0px 0px 17px 0px black;
+    border-radius: 20px;
+}
+.kaci10{
+    box-shadow: 0px 0px 17px 0px black;
+    transform: translateY(-1025px);
+    border-radius: 20px;
+}
+.bolo {
+    width: 1560px;
+    height: 350px;
+    box-sizing: border-box;
+    border-radius: 100vh;
+    background-color: rgb(12, 14, 24);
+    box-shadow: 0px 0px 17px 0px rgb(17, 16, 12);
+    transform: translateY(-400px);
+}
+
+.salami{
+    transform: translateY(160px);
+    color: rgb(148, 142, 142);
+}
